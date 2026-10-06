@@ -16,13 +16,13 @@ Welcome to our team's knowledge base! This repository contains short notes and u
 
 ## 2. Git and GitHub
 
-*Contributor: [Member 2 Name]*
+*Contributor: wycliffe12*
 
 <!-- Add the member's paragraph here. -->
 
 ## 3. Markdown Basics
 
-*Contributor: [Member 3 Name]*
+*Contributor: CollinsMwenda2006*
 
 <!-- Add the member's paragraph here. -->
 
