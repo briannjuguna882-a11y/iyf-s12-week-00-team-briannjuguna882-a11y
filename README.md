@@ -33,13 +33,17 @@ Some important Git commands include:
 * `git push` — uploads local commits to a remote repository.
 * `git pull` — downloads and integrates changes from a remote repository.
 
+ add-vscode-section
 add-vscode-section
 *Contributor: Brian njuguna*
+
+Git helps developers track changes to their files and collaborate on projects without losing earlier versions. GitHub hosts Git repositories online and provides tools such as branches and pull requests for reviewing and merging code. A typical workflow is to clone a repository, create a branch, edit files, commit changes, push the branch, and open a pull request for review.
+
+ main
 
 *Contributor: Brian Njuguna*
  main
 
-<!-- Add the member's paragraph here. -->
 
 ## 3. Markdown Basics
 
