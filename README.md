@@ -5,8 +5,8 @@ Welcome to our team's knowledge base! This repository contains short notes and u
 ## Team Members
 
 * Brian Njuguna — Team Lead
-* [Member 2 Name]
-* [Member 3 Name]
+* wycliffe12
+* CollinsMwenda2006
 
 ## 1. Visual Studio Code
 
@@ -24,5 +24,23 @@ Some important Git commands include:
 * `git commit -m "message"` — saves a snapshot of staged changes.
 * `git push` — uploads local commits to a remote repository.
 * `git pull` — downloads and integrates changes from a remote repository.
+
+*Contributor: wycliffe12*
+
+<!-- Add the member's paragraph here. -->
+
+## 3. Markdown Basics
+
+*Contributor: CollinsMwenda2006*
+
+<!-- Add the member's paragraph here. -->
+
+## Collaboration Rules
+
+* Each member works on their own branch.
+* Every contribution must be committed and pushed.
+* A teammate must review and approve each pull request.
+* Approved changes are merged into the main branch.
+* Everyone must verify their contributions on GitHub.
 
 Git branches allow team members to work on separate features. Pull requests allow teammates to review changes before merging them into the main branch.
