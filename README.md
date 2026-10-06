@@ -5,8 +5,8 @@ Welcome to our team's knowledge base! This repository contains short notes and u
 ## Team Members
 
 * Brian Njuguna — Team Lead
-* [Member 2 Name]
-* [Member 3 Name]
+* wycliffe12
+* CollinsMwenda2006
 
 ## 1. Visual Studio Code
 
