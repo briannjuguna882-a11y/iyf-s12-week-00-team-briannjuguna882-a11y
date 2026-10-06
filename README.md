@@ -10,10 +10,10 @@ Welcome to our team's knowledge base! This repository contains short notes and u
 
 ## 1. Visual Studio Code
 
-*Contributor: Brian Njuguna*
+*Contributor: wycliffe12*
 
 <!-- Add your paragraph about Visual Studio Code here. -->
-### 1. Git and GitHub
+### 2. Git and GitHub
 
 Git is a version control system that helps developers track changes in their files and return to earlier versions when necessary. GitHub is an online platform that hosts Git repositories and makes it easier for developers to collaborate on projects.
 
@@ -25,7 +25,7 @@ Some important Git commands include:
 * `git push` — uploads local commits to a remote repository.
 * `git pull` — downloads and integrates changes from a remote repository.
 
-*Contributor: wycliffe12*
+*Contributor: Brian Njuguna*
 
 <!-- Add the member's paragraph here. -->
 
