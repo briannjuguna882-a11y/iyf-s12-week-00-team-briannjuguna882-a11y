@@ -27,7 +27,6 @@ Some important Git commands include:
 
 *Contributor: Brian Njuguna*
 
-<!-- Add the member's paragraph here. -->
 
 ## 3. Markdown Basics
 
