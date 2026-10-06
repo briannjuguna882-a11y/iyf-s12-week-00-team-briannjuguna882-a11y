@@ -11,17 +11,16 @@ Welcome to our team's knowledge base! This repository contains short notes and u
 ## 1. Visual Studio Code
 
 add-vscode-section
-*Contributor: Wycliffe*
+
+*Contributor: Wycliffe12*
 
 Visual Studio Code (VS Code) is a free code editor used to write and manage software projects. It supports many programming languages, including HTML, CSS, JavaScript, and Python. Useful features include syntax highlighting, extensions, an integrated terminal, and Git integration, which help developers write and manage code efficiently.
 
-### 1. Git and GitHub
+## 2. Git and GitHub
 
-*Contributor: wycliffe12*
-
-Visual Studio Code (VS Code) is a free code editor used to write and manage software projects. It supports many programming languages, including HTML, CSS, JavaScript, and Python. Useful features include syntax highlighting, extensions, an integrated terminal, and Git integration, which help developers write and manage code efficiently.
-### 2. Git and GitHub
 main
+
+*Contributor: Brian njuguna*
 
 Git is a version control system that helps developers track changes in their files and return to earlier versions when necessary. GitHub is an online platform that hosts Git repositories and makes it easier for developers to collaborate on projects.
 
@@ -35,6 +34,7 @@ Some important Git commands include:
 
  add-vscode-section
 add-vscode-section
+
 *Contributor: Brian njuguna*
 
 Git helps developers track changes to their files and collaborate on projects without losing earlier versions. GitHub hosts Git repositories online and provides tools such as branches and pull requests for reviewing and merging code. A typical workflow is to clone a repository, create a branch, edit files, commit changes, push the branch, and open a pull request for review.
