@@ -12,7 +12,7 @@ Welcome to our team's knowledge base! This repository contains short notes and u
 
 *Contributor: wycliffe12*
 
-<!-- Add your paragraph about Visual Studio Code here. -->
+Visual Studio Code (VS Code) is a free code editor used to write and manage software projects. It supports many programming languages, including HTML, CSS, JavaScript, and Python. Useful features include syntax highlighting, extensions, an integrated terminal, and Git integration, which help developers write and manage code efficiently.!-- Add your paragraph about Visual Studio Code here. -->
 ### 2. Git and GitHub
 
 Git is a version control system that helps developers track changes in their files and return to earlier versions when necessary. GitHub is an online platform that hosts Git repositories and makes it easier for developers to collaborate on projects.
