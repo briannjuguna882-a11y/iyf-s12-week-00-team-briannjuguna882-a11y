@@ -10,11 +10,18 @@ Welcome to our team's knowledge base! This repository contains short notes and u
 
 ## 1. Visual Studio Code
 
+add-vscode-section
 *Contributor: Wycliffe*
 
 Visual Studio Code (VS Code) is a free code editor used to write and manage software projects. It supports many programming languages, including HTML, CSS, JavaScript, and Python. Useful features include syntax highlighting, extensions, an integrated terminal, and Git integration, which help developers write and manage code efficiently.
 
 ### 1. Git and GitHub
+
+*Contributor: wycliffe12*
+
+Visual Studio Code (VS Code) is a free code editor used to write and manage software projects. It supports many programming languages, including HTML, CSS, JavaScript, and Python. Useful features include syntax highlighting, extensions, an integrated terminal, and Git integration, which help developers write and manage code efficiently.
+### 2. Git and GitHub
+main
 
 Git is a version control system that helps developers track changes in their files and return to earlier versions when necessary. GitHub is an online platform that hosts Git repositories and makes it easier for developers to collaborate on projects.
 
@@ -26,7 +33,11 @@ Some important Git commands include:
 * `git push` — uploads local commits to a remote repository.
 * `git pull` — downloads and integrates changes from a remote repository.
 
+add-vscode-section
 *Contributor: Brian njuguna*
+
+*Contributor: Brian Njuguna*
+ main
 
 <!-- Add the member's paragraph here. -->
 
