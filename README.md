@@ -61,3 +61,10 @@ main
 * Everyone must verify their contributions on GitHub.
 
 Git branches allow team members to work on separate features. Pull requests allow teammates to review changes before merging them into the main branch.
+
+## Resources
+
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Documentation](https://docs.github.com/)
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [Markdown Guide](https://www.markdownguide.org/)
