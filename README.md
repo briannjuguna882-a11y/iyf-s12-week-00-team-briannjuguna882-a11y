@@ -49,9 +49,21 @@ main
 ## 3. Markdown Basics
 
 *Contributor: CollinsMwenda2006*
-
-<!-- Add the member's paragraph here. -->
-
+   ## collins-css
+    cascading style sheets
+        WHY LAERN IT
+           -works with html and java script to build websites
+           -makes websites look proffesional and appealing
+           -makes pages work on phones and laptops
+   ### HOW IT WORKS
+       A CSS rule has a **selector** {what to style} and **properties**{how to style it}:
+       ```css
+          h1{
+          color:blue:
+          font-size:32px
+        
+        }
+       ```
 ## Collaboration Rules
 
 * Each member works on their own branch.
