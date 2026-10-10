@@ -57,13 +57,13 @@ main
            -makes pages work on phones and laptops
    ### HOW IT WORKS
        A CSS rule has a **selector** {what to style} and **properties**{how to style it}:
-       ```css
+      css
           h1{
           color:blue:
           font-size:32px
         
         }
-       ```
+       
 ## Collaboration Rules
 
 * Each member works on their own branch.
